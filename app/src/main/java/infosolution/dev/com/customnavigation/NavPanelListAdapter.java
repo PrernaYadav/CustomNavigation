@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * Created by amit on 3/8/2018.
+ * Created by shreyansh on 3/8/2018.
  */
 
 public class NavPanelListAdapter extends BaseAdapter {
